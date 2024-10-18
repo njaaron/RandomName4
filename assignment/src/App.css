@@ -1,0 +1,36 @@
+.app-wrapper {
+  text-align: left;
+  margin: 20px;
+}
+
+.chart-section {
+  margin-bottom: 20px;
+}
+
+.scatter-dot {
+  fill: #69b3a2;
+  margin-left: 20px;
+}
+
+.bar {
+  fill: #69b3a2;
+  margin-left: 20px;
+}
+
+.chart-title {
+  font-size: 14px;
+  text-anchor: middle;
+  font-weight: bold;
+}
+
+.x-axis-label {
+  text-anchor: middle;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.y-axis-label {
+  font-size: 14px;
+  text-anchor: middle;
+  font-weight: bold;
+}
